@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.container{
+	height: 2000px;max-width: 960px;
+margin: 0 auto;
+	background:url('images/el_mount.png') no-repeat center; background-size: cover;
+font-size: 24px;
+padding: 25px;}
+.parallax{
+img: url("images/ant.png") ; background-size: cover;background-attachment: fixed;
+height: 500px;}
+h5 {
+    font-size: 20px;
+    line-height: 0px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
